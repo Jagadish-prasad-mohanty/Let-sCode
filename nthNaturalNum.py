@@ -11,4 +11,4 @@ def findNth(N):
             
         return res
 
-print(findNth(99))
+print(findNth(100))
